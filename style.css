@@ -23,7 +23,7 @@ input[name="display"]{
     text-align: right;
     border-radius: 8px;
     margin: 5px;
-    width: calc(100% - 30px );
+    width: calc(100% - 30px);
     border: none;
     padding: 0 10px;
 }
